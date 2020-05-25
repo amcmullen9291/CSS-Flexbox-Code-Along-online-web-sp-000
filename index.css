@@ -12,7 +12,7 @@ header {
 
 main {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
   background-color: #92C9D5;
   width: 100%;
   height: 100%;
